@@ -1,4 +1,4 @@
-# DIF Veramo User Group – Rolling Agenda & Minutes
+# DIF Open Group – Rolling Agenda & Minutes
 
 [![hackmd-github-sync-badge](https://hackmd.io/XKdZ7iShTCCyMFX4I9RgOg/badge)](https://hackmd.io/XKdZ7iShTCCyMFX4I9RgOg)
 

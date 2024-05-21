@@ -1,5 +1,5 @@
-# Veramo User Group
-This repo is the home for content that embodies the processes and focus topics for the Veramo User Group. Welcome! We'd love to collaborate with you. See [Contributing](contributing.md).
+# Open Group
+This repo is the home for content that embodies the processes and focus topics for the Open Group. Welcome! We'd love to collaborate with you. See [Contributing](contributing.md).
 
 - [Charter](charter.md)
 - Schedule

@@ -11,6 +11,7 @@ Use this repository template for DIF User Groups and Special Interest Groups, co
     - Update this README.md (see example content below)
     - Add the approved group charter (in markdown format) as charter.md
     - Add chair github handles in the [CODEOWNERS](./CODEOWNERS) file.
+    - Update links in AGENDA.md and [set up hackmd integration](https://hackmd.io/s/link-with-github)
 - `gh-pages` branch:
     - In package.json, update group `name`, `homepage`, and `repository.url` 
     - Add group images into `docs/images/`. This includes photos of chairs and the group images.

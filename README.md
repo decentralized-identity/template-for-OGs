@@ -5,12 +5,19 @@ Use this repository template for DIF User Groups and Special Interest Groups, co
 - Contains the group's common files (such as license and contributing instructions) in the `main` branch
 - Hosts the group's landing page in the `gh-pages` branch
 
+## Prerequisites
+- DIF Steering Committee has approved the group's charter
+- Group Chair / Proposer has filled out this form
+
+See [Create DIF Group documentation](https://github.com/decentralized-identity/org/blob/master/Org%20documents/processes/create_group.md) for more context.
+
 ## Template Instructions
+- Create your new repo from this template ("Use this template")
 - `main` branch changes:
-    - Update this README.md (see example content below)
-    - Add the approved group charter (in markdown format) as charter.md
+    - Add the approved group charter, in markdown format, as `charter.md` (use the Docs to Markdown extension)
     - Add chair github handles in the [CODEOWNERS](./CODEOWNERS) file.
     - Update links in AGENDA.md and [set up hackmd integration](https://hackmd.io/s/link-with-github)
+    - Update this README.md (see example content below)
 - `gh-pages` branch:
     - Find/replace "template-for-OGs" with group repo name
     - Add group images into `docs/images/`. This includes photos of chairs and the group images.

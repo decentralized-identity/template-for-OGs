@@ -26,6 +26,7 @@ See [Create DIF Group documentation](https://github.com/decentralized-identity/o
     - Update all of the links in AGENDA.md and [set up hackmd integration](https://hackmd.io/c/tutorials/%2Fs%2Flink-with-github)
     - Check repo tags
     - Check gh-pages (double-check that Settings > Pages is configured correctly)
+    - Give chairs github `maintainer` permissions
 
 After committing these changes, you should see the group landing page at identity.foundation/[repo name]
 

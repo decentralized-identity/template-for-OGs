@@ -30,7 +30,7 @@ See [Create DIF Group documentation](https://github.com/decentralized-identity/o
 After committing these changes, you should see the group landing page at identity.foundation/[repo name]
 
 ## Example README.md content
-Welcome! We'd love to collaborate with you. See [Contributing](contributing.md) for details.
+Welcome! We'd love to collaborate with you.
 
 [Other basic group information]
 
